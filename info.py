@@ -18,8 +18,8 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'TechVJBot')
-API_ID = int(environ.get('API_ID', '20478011'))
-API_HASH = environ.get('API_HASH', '0e4dcf39643e83c3c174a0d2370e5b4a')
+API_ID = int(environ.get('API_ID', '2047011'))
+API_HASH = environ.get('API_HASH', '0e4dcf3964e83c3c174a0d2370e5b4a')
 BOT_TOKEN = environ.get('BOT_TOKEN', "8231530189:AAFoz0hdEoVyJZ-iZHNdCcRcfZHy0Mm30xQ")
 
 # Bot settings
@@ -166,6 +166,7 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
